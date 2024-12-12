@@ -1,0 +1,53 @@
+.sunny-bg {
+  background-image: url('../assets/sunny.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.cloudy-bg {
+  background-image: url('../assets/Cloudy.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.rainy-bg {
+  background-image: url('../assets/Rainy.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.snowy-bg {
+  background-image: url('../assets/Snowy.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.clear-night-bg {
+  background-image: url('../assets/clearnight.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.cloudy-night-bg {
+  background-image: url('../assets/cloudynight.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.rainy-night-bg {
+  background-image: url('../assets/rainynight.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.snowy-night-bg {
+  background-image: url('../assets/snowynight.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.default-bg {
+  background-image: url('../assets/weather.jpg');
+  background-size: cover;
+  background-position: center;
+}
